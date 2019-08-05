@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Lax- changed - Edit <code>src/App.js</code> and save to reload.
+          Lax- changed in new branch - for AWS deployment - Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
           className="App-link"
